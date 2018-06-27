@@ -1,5 +1,4 @@
-/*/.idea
-/*/*.iml
-/*/out
-/*/gen
-/*/target/
+*/.idea/
+*/*.iml
+*/out/
+*/target/
