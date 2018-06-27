@@ -1,4 +1,4 @@
-*/.idea/
-*/*.iml
-*/out/
-*/target/
+emptyProject/.idea/
+emptyProject/*.iml
+emptyproject/out/
+emptyProject/target/
